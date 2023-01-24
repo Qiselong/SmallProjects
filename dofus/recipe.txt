@@ -1,0 +1,2 @@
+iron 2;ash 1;xp 10
+iron 3;ash 1;xp 10
